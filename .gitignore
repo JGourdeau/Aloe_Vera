@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#aloe vera log file 
+aloe_vera_log.csv
