@@ -4,9 +4,9 @@
 
 Aloe Vera is a simple user interface to track the percieved values of 3 metrics tracked and calculated by Garmin fitness wearables. These metrics include: 
 
-1. Stress Level
-2. Body Battery
-3. Sleep Quality 
+1. [Stress Level](https://support.garmin.com/en-US/?faq=WT9BmhjacO4ZpxbCc0EKn9)
+2. [Body Battery](https://www.garmin.com/en-US/garmin-technology/health-science/body-battery/)
+3. [Sleep Quality](https://www.garmin.com/en-US/blog/health/garmin-sleep-score-and-sleep-insights/)
 
 The program will label the magnitude using the same paramaters and cutoffs as Garmin. 
 
