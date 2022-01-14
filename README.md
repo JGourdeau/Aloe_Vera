@@ -1,5 +1,7 @@
 # Aloe_Vera
 
+## Overview: 
+
 Aloe Vera is a simple user interface to track the percieved values of 3 metrics tracked and calculated by Garmin fitness wearables. These metrics include: 
 
 1. Stress Level
