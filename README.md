@@ -12,4 +12,6 @@ The program will label the magnitude using the same paramaters and cutoffs as Ga
 
 Aloe Vera also allows for a user to rank their perception of a day on a scale of 1-5. 
 
-All the data is stored on a csv in the same directory as the program itself and with each submission datetime stamped and can therefore be integrated and compared with the data from Garmin Connect. 
+All the data is stored on a csv in the same directory as the program itself and with each submission datetime stamped and can therefore be integrated and compared with the data from Garmin Connect.
+
+Written to streamline personal quantification project for QSS 30
