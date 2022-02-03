@@ -2,7 +2,7 @@
 
 ## Overview: 
 
-Aloe Vera is a simple user interface to track the percieved values of 3 metrics tracked and calculated by Garmin fitness wearables. These metrics include: 
+Aloe Vera is a VERY simple user interface to track the percieved values of 3 metrics tracked and calculated by Garmin fitness wearables. These metrics include: 
 
 1. [Stress Level](https://support.garmin.com/en-US/?faq=WT9BmhjacO4ZpxbCc0EKn9)
 2. [Body Battery](https://www.garmin.com/en-US/garmin-technology/health-science/body-battery/)
