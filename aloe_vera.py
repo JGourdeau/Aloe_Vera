@@ -95,7 +95,8 @@ def write_log_file(data_list):
     data_series = pd.Series(data_list, index = log_df.columns)
     print(data_series)
     log_df = log_df.append(data_series, ignore_index=True)
-    print(log_df.head())
+    # print(log_df.head())
+    print("%s days recorded!" %len(log_df))
     log_df.to_csv(log_name, index=False)
     
 
