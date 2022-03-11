@@ -14,4 +14,4 @@ Aloe Vera also allows for a user to rank their perception of a day on a scale of
 
 All the data is stored on a csv in the same directory as the program itself and with each submission datetime stamped and can therefore be integrated and compared with the data from Garmin Connect.
 
-Written to streamline personal quantification project for QSS 30
+Written to streamline personal quantification project for QSS 30. Downstream analysis notebooks included in /notebooks
